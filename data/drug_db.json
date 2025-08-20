@@ -1,1 +1,51 @@
+{
+  "Paracetamol": {
+    "generic": "acetaminophen",
+    "class": "Analgesic",
+    "synonyms": ["Paracetamol", "PCM", "Acetaminophen", "Crocin", "Tylenol"],
+    "common_warnings": ["Liver damage risk above 4g/day", "Avoid with excessive alcohol"]
+  },
+  "Ibuprofen": {
+    "generic": "ibuprofen",
+    "class": "NSAID",
+    "synonyms": ["Ibuprofen", "Brufen", "Advil", "Ibugesic"],
+    "common_warnings": ["GI bleeding/ulcer risk", "Avoid combining with other NSAIDs"]
+  },
+  "Aspirin": {
+    "generic": "aspirin",
+    "class": "NSAID",
+    "synonyms": ["Aspirin", "ASA", "Dispirin", "Ecosprin"],
+    "common_warnings": ["Bleeding risk", "Avoid in children with viral illness (Reye’s)"]
+  },
+  "Cetirizine": {
+    "generic": "cetirizine",
+    "class": "Antihistamine",
+    "synonyms": ["Cetirizine", "Cetrizine", "Zyrtec"],
+    "common_warnings": ["May cause drowsiness in some users"]
+  },
+  "Amoxicillin": {
+    "generic": "amoxicillin",
+    "class": "Antibiotic",
+    "synonyms": ["Amoxicillin", "Amoxycillin", "Mox"],
+    "common_warnings": ["Allergy risk in penicillin-sensitive patients"]
+  },
+  "Metformin": {
+    "generic": "metformin",
+    "class": "Antidiabetic",
+    "synonyms": ["Metformin", "Glucophage", "Glyciphage"],
+    "common_warnings": ["Risk of lactic acidosis in renal impairment", "Take with meals"]
+  },
+  "Atorvastatin": {
+    "generic": "atorvastatin",
+    "class": "Statin",
+    "synonyms": ["Atorvastatin", "Atorva", "Lipitor"],
+    "common_warnings": ["Rare muscle pain/weakness; check liver enzymes if needed"]
+  },
+  "Omeprazole": {
+    "generic": "omeprazole",
+    "class": "PPI",
+    "synonyms": ["Omeprazole", "Omez"],
+    "common_warnings": ["Long-term use may affect magnesium/B12; use shortest effective duration"]
+  }
+}
 
