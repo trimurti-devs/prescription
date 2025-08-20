@@ -1,1 +1,27 @@
+{
+  "TSH": {
+    "synonyms": ["TSH", "Thyroid Stimulating Hormone", "Thyrotropin"]
+  },
+  "FBS": {
+    "synonyms": ["FBS", "Fasting Blood Sugar", "FBG", "Fasting Glucose"]
+  },
+  "Lipid Profile": {
+    "synonyms": ["Lipid Profile", "Lipid Panel", "Cholesterol Panel", "Lipid profile"]
+  },
+  "HbA1c": {
+    "synonyms": ["HbA1c", "A1C", "Glycated Hemoglobin", "Glycosylated Hemoglobin"]
+  },
+  "CBC": {
+    "synonyms": ["CBC", "Complete Blood Count", "Hemogram"]
+  },
+  "LFT": {
+    "synonyms": ["LFT", "Liver Function Test", "Liver Panel"]
+  },
+  "KFT": {
+    "synonyms": ["KFT", "Renal Function Test", "Kidney Function Test", "RFT"]
+  },
+  "Vitamin D": {
+    "synonyms": ["Vitamin D", "25-OH Vitamin D", "25 Hydroxy Vitamin D"]
+  }
+}
 
